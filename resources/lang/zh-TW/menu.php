@@ -33,7 +33,7 @@ return [
     'email'                         => '信箱 : ',
     'email_info'                    => 'info@eplut.com',
     'website'                       => '網址 : ',
-    'website_info'                  => 'www.eplut.com/',
+    'website_info'                  => 'www.eplut.com',
     'enter_name'                    => '請輸入您的姓名',
     'enter_email'                   => '請輸入您的電子信箱',
     'enter_subject'                 => '請輸入您要詢問的主題',
