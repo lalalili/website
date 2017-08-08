@@ -1,7 +1,45 @@
 <?php
 return [
-    'lang_zh-TW' => '繁中',
-    'lang_zh-CN' => '简中',
-    'lang_en' => '英文',
-
+    'lang_zh-TW'                    => '繁中',
+    'lang_zh-CN'                    => '简中',
+    'lang_en'                       => 'English',
+    'company_name'                  => '禾立商务中心',
+    'company_brief'                 => '专业服务 弹性环境 您创业的最佳伙伴',
+    'services'                      => '服务',
+    'services_brief'                => '我们用心为您的团队提供最佳的办公环境',
+    'home'                          => '首页',
+    'services_office'               => '实体办公室',
+    'services_office_brief'         => '1人工作站、专属独立办公室',
+    'services_virtual_office'       => '行动办公室',
+    'services_virtual_office_brief' => '工商地址登记、代收信件与传真',
+    'services_meeting_room'         => '会议室',
+    'services_meeting_room_brief'   => '电话会议设备、视频会议安排',
+    'services_secretary'            => '行政秘书',
+    'services_secretary_brief'      => '文书处理、行政支持',
+    'aboutus'                       => '关于我们',
+    'aboutus_brief'                 => '<br>我们的客户来自不同的国家与行业，以灵活的办公室方案满足不同规模的业务需要。禾立致力为客户提供各式各样优质的秘书及商业后勤支持服务，并肩负起为中小企业和创业人士减省成本、减轻负担。本中心拥有完善的系统化流程，可以协助客户业务稳定成长，服务素质亦获得客户的认同。</br>
+                                        <br>能得到客户肯定，是一个很大的鼓舞。禾立持续与客户保持良好互动关系，用心聆听和不断革新，持续提升服务的素质，使客户能得到更贴身的商务支持。</br>
+                                        <br>我们提供一站式的企业方案，包括办公室租赁、商务中心出租、服务式办公室、虚拟办公室、会议室、成立公司、税务报表、会计服务和位于黄金地段的公司地址等服务，让您可以实时开始营运、掌握商机。</br>
+                                        <br>多种弹性的租赁方案，适合任何产业发展的型态，无需再花费大量时间建置办公室，实时可运用，同时更节省办公室家具、设备及行政人力等成本。提供立即强大的后盾与支持，使客户做优化的经营决策，以『助客户事业更一层楼』为我们的己任。</br>',
+    'environment'                   => '环境',
+    'environment_brief'             => '不同的设计满足各种商务需求',
+    'contact'                       => '联络我们',
+    'contact_brief'                 => '联络我们',
+    'contact_detail'                => '如果您有任何疑问，或想回馈反映的意见，欢迎与我们联系',
+    'address'                       => ' 地址 : ',
+    'address_info'                  => '新北市新店区民权建国路口',
+    'phone'                         => '电话 : ',
+    'phone_info'                    => '02-1234-5678',
+    'email'                         => '信箱 : ',
+    'email_info'                    => 'info@eplut.com',
+    'website'                       => '网址 : ',
+    'website_info'                  => 'www.eplut.com',
+    'enter_name'                    => '请输入您的姓名',
+    'enter_email'                   => '请输入您的电子邮箱',
+    'enter_subject'                 => '请输入您要询问的主题',
+    'enter_message'                 => '请输入您要询问的内容',
+    'send_now'                      => '送出',
+    'go'                            => '更多',
 ];
+
+

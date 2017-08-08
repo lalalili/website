@@ -1,8 +1,8 @@
 <?php
 return [
     'lang_zh-TW'                    => '繁中',
-    'lang_zh-CN'                    => '簡中',
-    'lang_en'                       => '英文',
+    'lang_zh-CN'                    => '简中',
+    'lang_en'                       => 'English',
     'company_name'                  => '禾立商務中心',
     'company_brief'                 => '專業服務 彈性環境 您創業的最佳夥伴',
     'services'                      => '服務',

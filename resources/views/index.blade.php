@@ -80,7 +80,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.html">
+                <a class="navbar-brand" href="/">
                     <h1><img class="lazy lazy img-responsive" data-original="images/logo.png" alt="logo"></h1>
                 </a>
             </div>
@@ -314,7 +314,7 @@
     <div class="footer-top wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
         <div class="container text-center">
             <div class="footer-logo">
-                <a href="index.html"><img class="lazy img-responsive" data-original="images/logo.png" alt=""></a>
+                <a href="/"><img class="lazy img-responsive" data-original="images/logo.png" alt=""></a>
             </div>
             {{--<div class="social-icons">--}}
                 {{--<ul>--}}
