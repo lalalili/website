@@ -297,7 +297,7 @@
                             <p>{{ __('menu.contact_detail') }}</p>
                             <ul class="address">
                                 <li><i class="fa fa-map-marker"></i> <span> {{ __('menu.address') }}</span>{{ __('menu.address_info') }}</li>
-                                <li><i class="fa fa-phone"></i> <span> {{ __('menu.phone') }}</span>{{ __('menu.phone_info') }}</li>
+{{--                                <li><i class="fa fa-phone"></i> <span> {{ __('menu.phone') }}</span>{{ __('menu.phone_info') }}</li>--}}
                                 <li><i class="fa fa-envelope"></i> <span> {{ __('menu.email') }}</span><a
                                             href="">{{ __('menu.email_info') }}</a></li>
                                 <li><i class="fa fa-globe"></i> <span> {{ __('menu.website') }}</span> <a href="">{{ __('menu.website_info') }}</a>
